@@ -1,10 +1,8 @@
-<h1 align="center">Hello, I'm Lucas </h1> <p align="center">
+<h1 align="center">Hello, I'm Lucas 👋 🚀</h1> <p align="center">
 A passionate Full Stack Developer focused on turning ideas into modern, high-performance web applications. My specialty is building scalable architectures and accessible interfaces using technologies like <strong>React, TypeScript, Python, and Django/FastAPI</strong>.
 </p> <p align="center">
   <a href="https://linkedin.com/in/seu-usuario" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="mailto:seu-email@example.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
-  <a href="https://instagram.com/seu-usuario" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
-  <a href="https://seu-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio Badge"/></a>
 </p>
 
 ---
@@ -12,12 +10,8 @@ A passionate Full Stack Developer focused on turning ideas into modern, high-per
 ## 📊 My GitHub Stats
 
 <p align="center">
-<a href="https://github.com/lucas-mcd">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=lucas-mcd&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/lucas-mcd">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-mcd&layout=compact&theme=radical&hide_border=true&langs_count=7" alt="Top Languages" />
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=lucas-mcd&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-mcd&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -55,5 +49,4 @@ A passionate Full Stack Developer focused on turning ideas into modern, high-per
   <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/PYTEST-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="PyTest" />
   <img src="https://img.shields.io/badge/PYCHARM-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white" alt="VS Code" />
 </p>
