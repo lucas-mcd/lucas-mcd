@@ -7,22 +7,24 @@ A passionate Full Stack Developer focused on turning ideas into modern, high-per
   <a href="https://seu-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio Badge"/></a>
 </p>
 
+---
 
-
-
-📊 My GitHub Stats
+## 📊 My GitHub Stats
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<a href="https://github.com/lucas-mcd">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=lucas-mcd&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/lucas-mcd">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-mcd&layout=compact&theme=radical&hide_border=true&langs_count=7" alt="Top Languages" />
+  </a>
 </p>
 
+---
 
+## 🛠️ Technologies & Tools
 
-
-🛠️ Technologies & Tools
-
-Languages & Front-end:
+### Languages & Front-end:
 
 <p align="center">
 <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -33,7 +35,7 @@ Languages & Front-end:
   <img src="https://img.shields.io/badge/VUE.JS-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
 </p>
 
-Back-end & Databases:
+### Back-end & Databases:
 
 <p align="center">
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -46,7 +48,7 @@ Back-end & Databases:
   <img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-Tools, Testing & DevOps:
+### Tools, Testing & DevOps:
 
 <p align="center">
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -55,4 +57,3 @@ Tools, Testing & DevOps:
   <img src="https://img.shields.io/badge/PYCHARM-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
   <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white" alt="VS Code" />
 </p>
-
