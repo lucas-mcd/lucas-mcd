@@ -7,7 +7,7 @@ A passionate Full Stack Developer focused on turning ideas into modern, high-per
 
 ---
 
-## 🛠️ Technologies & Tools
+##               Technologies & Tools
 
 ### Languages & Front-end:
 
