@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm [Seu Nome] 👋 🚀</h1> <p align="center">
+<h1 align="center">Hello, I'm Lucas </h1> <p align="center">
 A passionate Full Stack Developer focused on turning ideas into modern, high-performance web applications. My specialty is building scalable architectures and accessible interfaces using technologies like <strong>React, TypeScript, Python, and Django/FastAPI</strong>.
 </p> <p align="center">
   <a href="https://linkedin.com/in/seu-usuario" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
