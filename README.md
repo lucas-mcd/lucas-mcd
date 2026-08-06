@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Lucas 👋 🚀</h1> <p align="center">
+<h1 align="center">Hello, I'm Lucas </h1> <p align="center">
 A passionate Full Stack Developer focused on turning ideas into modern, high-performance web applications. My specialty is building scalable architectures and accessible interfaces using technologies like <strong>React, TypeScript, Python, and Django/FastAPI</strong>.
 </p> <p align="center">
   <a href="https://linkedin.com/in/seu-usuario" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
@@ -7,16 +7,7 @@ A passionate Full Stack Developer focused on turning ideas into modern, high-per
 
 ---
 
-## 📊 My GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lucas-mcd&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-mcd&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### Languages & Front-end:
 
@@ -49,4 +40,5 @@ A passionate Full Stack Developer focused on turning ideas into modern, high-per
   <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/PYTEST-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="PyTest" />
   <img src="https://img.shields.io/badge/PYCHARM-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
